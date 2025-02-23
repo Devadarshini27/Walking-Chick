@@ -13,6 +13,6 @@ Features
 HTML – Structure of the chick and background elements.
 CSS – Styling and animation using @keyframes, transform, and animation.
 
-Link: 
+Link: https://devadarshini27.github.io/Walking-Chick/
 
 Thank You!!
